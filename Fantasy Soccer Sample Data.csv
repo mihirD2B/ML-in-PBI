@@ -1,0 +1,7 @@
+now_cost,selected_by_percent,goals_scored,assists,clean_sheets,pos,points_per_90
+50,5,0,0,0,GK,1.5
+75,10,1,1,1,DEF,3.2
+100,15,2,2,2,DEF,4.6
+150,20,3,3,3,MID,6.7
+200,25,4,4,4,MID,8.9
+250,30,5,5,5,FWD,10.1
